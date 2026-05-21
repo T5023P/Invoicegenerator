@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Invoice Portal</string>
+    <string name="title_activity_main">Invoice Portal</string>
+    <string name="package_name">com.freelancer.invoiceportal</string>
+    <string name="custom_url_scheme">com.freelancer.invoiceportal</string>
+</resources>
